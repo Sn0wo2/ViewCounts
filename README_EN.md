@@ -1,6 +1,6 @@
 # ViewCounts
 
-> [中文](README.MD)
+> [中文](README.md)
 
 > ViewCounts API is a visitor API counter developed by [**`Golang`**](https://go.dev)
 
