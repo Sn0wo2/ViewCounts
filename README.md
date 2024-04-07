@@ -29,4 +29,4 @@ COMMING SN∞N
 
 ## License
 
-**请遵守 [`GPL 3协议`](blob/main/LICENSE)**
+**请遵守 [`GPL 3协议`](LICENSE)**
