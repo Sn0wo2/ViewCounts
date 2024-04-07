@@ -1,6 +1,6 @@
 # ViewCounts
 
-> [English](README_EN.MD)
+> [English](README_EN.md)
 
 > ViewCounts API是由[**`Golang`**](https://go.dev)开发的一个访客API计数器
 
