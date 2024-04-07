@@ -1,6 +1,8 @@
 # ViewCounts
 
-> ViewCounts API是由Golang开发的一个访客API计数
+> [English](README_EN.MD)
+
+> ViewCounts API是由[**`Golang`**](https://go.dev)开发的一个访客API计数器
 
 ---
 
@@ -15,6 +17,7 @@
 ```
 COMMING SN∞N
 ```
+
 ---
 
 ## Star History
