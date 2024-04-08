@@ -15,7 +15,13 @@ You can set an IP to count once, or an IP to access X times to count once, or an
 ## `config.yml:`
 
 ```
-COMMING SN∞N
+protocol: http
+listen_addr: :80
+cert_file: server.crt
+key_file: server.key
+rate_limit: 60
+blacklist: [ ]
+template_file: index.html
 ```
 
 ---
