@@ -1,0 +1,7 @@
+protocol: http
+listen_addr: :80
+cert_file: server.crt
+key_file: server.key
+rate_limit: 60
+blacklist: [ ]
+template_file: index.html
